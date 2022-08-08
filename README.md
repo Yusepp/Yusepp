@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Free Open Source Projects/AI community based projects**
 
-- 👨‍💻 All of my projects are available at [my github ;)](my github ;))
+- 👨‍💻 All of my projects are available at **my github ;)**
 
 - 💬 Ask me about **AI/Research related questions/General Software/Hardware**
 
