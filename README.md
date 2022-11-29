@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Josep</h1>
 <h3 align="center">A passionate Computer Vision PhD Student from Barcelona, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusepp&label=Profile%20views&color=0e75b6&style=flat" alt="yusepp" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusepp" alt="yusepp" /></a> </p>
 
 - 🔭 I’m currently starting my **PhD at Universitat Oberta de Catalunya w/ the AIWELL Lab**
@@ -18,7 +17,7 @@
 
 - 💬 Ask me about **AI/Research related questions/General Software/Hardware**
 
-- 📫 How to reach me **joseplcam@gmail.com**
+- 📫 How to reach me **jlopezcamu@uoc.edu and joseplcam@gmail.com**
 
 - ⚡ Fun fact **My sense of humour is broken. I laugh at the slightliest dumb thing.**
 
