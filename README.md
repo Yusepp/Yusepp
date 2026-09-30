@@ -7,13 +7,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusepp&label=Profile%20views&color=0e75b6&style=flat" alt="yusepp" /> </p>
 
 - **Now** · PhD student at **Universitat Oberta de Catalunya** in the **AIWELL Lab**, advised by Prof. Agata Lapedriza
-- **With** · **Antonio Torralba's lab at MIT CSAIL** and **Northeastern University**
+- **With** · research collaborations with **MIT CSAIL** and **Northeastern University**, including visits in 2024 and 2025
 - **Research** · how multimodal models represent **human emotion**, and **interpretability agents** that audit what those models rely on
-- **Latest** · **2 papers at NeurIPS 2025** (main track + Mechanistic Interpretability Workshop)
 - **Open to** · collaborating on open-source and AI community projects
 - **Ask me about** · AI research, interpretability, computer vision, or general software/hardware
 - **Reach me** · jlopezcamu@uoc.edu · joseplcam@gmail.com
-- **Off the clock** · AI, HPC and hardware freak, forever ricing my NixOS and macOS setups
+- **Off the clock** · AI, HPC and hardware freak
+
+<h3 align="left">Recent papers:</h3>
+
+- **Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent**<br/>NeurIPS 2025 · [paper](https://arxiv.org/abs/2510.21704) · [project](https://christykl.github.io/saia-website/) · [code](https://github.com/christykl/saia)
+- **OpenMAIA: a Multimodal Automated Interpretability Agent based on open-source models**<br/>NeurIPS 2025 Mechanistic Interpretability Workshop · [paper](https://openreview.net/forum?id=KitDRi76It)
+- **Experimenting with Affective Computing Models in Video Interviews with Spanish-Speaking Older Adults**<br/>WACV 2025 Workshops · [paper](https://arxiv.org/abs/2501.16870)
+
+More on [my website](https://yusepp.github.io/#publications).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
