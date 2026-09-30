@@ -1,35 +1,60 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="250"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="220" alt="" />
+
+  <h1>Hi 👋, I'm Josep</h1>
+
+  <p><b>PhD student in Computer Vision & Affective Computing at <a href="https://www.uoc.edu">UOC</a> (Barcelona)</b><br/>
+  I study how multimodal models represent human emotion, and build tools to audit what those models actually rely on.</p>
+
+  <p>
+    <a href="https://yusepp.github.io"><img src="https://img.shields.io/badge/Website-yusepp.github.io-005eff?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>
+    <a href="https://scholar.google.com/citations?user=cHzwkWMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+    <a href="https://www.linkedin.com/in/yusepp"><img src="https://img.shields.io/badge/LinkedIn-yusepp-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+    <a href="https://x.com/joseplcam"><img src="https://img.shields.io/badge/X-@joseplcam-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    <a href="mailto:jlopezcamu@uoc.edu"><img src="https://img.shields.io/badge/Email-jlopezcamu@uoc.edu-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
-<h1 align="center">Hi 👋, I'm Josep</h1>
-<h3 align="center">A passionate Computer Vision PhD Student from Barcelona, Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusepp&label=Profile%20views&color=0e75b6&style=flat" alt="yusepp" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusepp" alt="yusepp" /></a> </p>
+## 🔭 What I'm working on
 
-- 🔭 I’m currently starting my **PhD at Universitat Oberta de Catalunya w/ the AIWELL Lab**
+- 🎓 PhD at the **Universitat Oberta de Catalunya** in the **AIWELL Lab** (AI for Human Well-being), advised by Prof. Agata Lapedriza
+- 🤝 Collaborating with **Antonio Torralba's lab at MIT CSAIL** and **Northeastern University** (research visits in 2024 and 2025)
+- 🧠 **Automated interpretability**: agents that design experiments to explain what vision models and their neurons do
+- 💬 **Affective computing**: emotion understanding with vision-language models, especially for under-represented groups
 
-- 🌱 I’m expanding my knowledge on **Pytorch/Tensorflow/Sklearn and other AI libraries**
+## 📄 Recent publications
 
-- 👯 I’m looking to collaborate on **Free Open Source Projects/AI community based projects**
+| | Paper | Links |
+|---|---|---|
+| ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-8A2BE2?style=flat-square) | **Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent** | [Paper](https://arxiv.org/abs/2510.21704) · [Project](https://christykl.github.io/saia-website/) · [Code](https://github.com/christykl/saia) |
+| ![NeurIPS-W 2025](https://img.shields.io/badge/NeurIPS_Workshop-2025-8A2BE2?style=flat-square) | **OpenMAIA: a Multimodal Automated Interpretability Agent based on open-source models** | [Paper](https://openreview.net/forum?id=KitDRi76It) · [MAIA code](https://github.com/multimodal-interpretability/maia) |
+| ![WACV-W 2025](https://img.shields.io/badge/WACV_Workshop-2025-1f6feb?style=flat-square) | **Experimenting with Affective Computing Models in Video Interviews with Spanish-Speaking Older Adults** | [Paper](https://arxiv.org/abs/2501.16870) |
 
-- 👨‍💻 All of my projects are available at **my github ;)**
+Full list on [my website](https://yusepp.github.io/#publications) and [Google Scholar](https://scholar.google.com/citations?user=cHzwkWMAAAAJ&hl=en).
 
-- 💬 Ask me about **AI/Research related questions/General Software/Hardware**
+## 🛠️ Featured projects
 
-- 📫 How to reach me **jlopezcamu@uoc.edu and joseplcam@gmail.com**
+| Project | What it is |
+|---|---|
+| [**YOLOv8-Face**](https://github.com/Yusepp/YOLOv8-Face) | YOLOv8 models for face detection ⭐ |
+| [**Real-Time-Smile**](https://github.com/Yusepp/Real-Time-Smile) | Real-time smile detection |
+| [**Master-Computer-Vision-UAB**](https://github.com/Yusepp/Master-Computer-Vision-UAB) | Lectures and projects from my Master's in Computer Vision |
+| [**BatistaBot**](https://github.com/Yusepp/BatistaBot) | A Discord music bot, my alternative to Groovy and Rythm |
 
-- ⚡ Fun fact **My sense of humour is broken. I laugh at the slightliest dumb thing.**
+## 🧰 Tools I use
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joseplcam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseplcam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yusepp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusepp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17190313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17190313" height="30" width="40" /></a>
-<a href="https://kaggle.com/yusepp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yusepp" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white" alt="PyTorch Lightning" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## ⚡ Fun fact
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusepp&show_icons=true&locale=en" alt="yusepp" /></p>
+My sense of humour is broken: I laugh at the slightest dumb thing.
